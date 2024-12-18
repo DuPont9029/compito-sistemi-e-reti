@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import Title from "../app/components/title";
 import TextSinistra from "./components/textsinistra";
 import TextDestra from "./components/textdestra";
